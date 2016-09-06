@@ -54,15 +54,15 @@ public class Swap {
 			a1이 a2가 큰거나 같은경우
 			if(a1 > a3){
 			System.out.println("최대값은  " + a1 + " 입니다.");
-		} else {
+			} else {
 			System.out.println("최대값은  " + a3 + " 입니다.");
 			}
 		} else { 
 			if (a2 >a3 ){
 			System.out.println("최대값은  " + a2 + " 입니다.");
-		} else {
+			} else {
 			System.out.println("최대값은  " + a3 + " 입니다.");
-			}
+		}
 		
 */
 	}
