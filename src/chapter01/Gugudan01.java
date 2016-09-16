@@ -11,9 +11,12 @@ public class Gugudan01 {
 			int j = 1;
 			while(j <= 9){
 				int result = i * j;
-				System.out.println(i + " X " + j + " = " + result);
+				System.out.print(i + " X " + j + " = " + result+"\t");
+				
 				j++;
+				
 			}
+			System.out.println("");
 			i++;
 		}
 		
